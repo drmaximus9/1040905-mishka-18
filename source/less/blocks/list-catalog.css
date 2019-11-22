@@ -1,0 +1,6 @@
+.list-catalog {
+  list-style: none;
+}
+.list-catalog__link {
+  text-decoration: none;
+}
