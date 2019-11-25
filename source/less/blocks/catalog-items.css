@@ -1,0 +1,6 @@
+.catalog-items__list {
+  list-style: none;
+}
+.catalog-items__list a {
+  text-decoration: none;
+}
