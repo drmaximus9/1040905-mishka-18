@@ -576,3 +576,29 @@ template {
   font-size: 27px;
   line-height: 30px;
 }
+.list-catalog {
+  list-style: none;
+}
+.list-catalog__item a {
+  text-decoration: none;
+  color: #000000;
+}
+.list-catalog__item-wrap {
+  width: 260px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: 0 auto;
+  margin-left: 0;
+  margin-right: 0;
+}
+.list-catalog__title {
+  font-size: 17px;
+  line-height: 24px;
+}
+.list-catalog__description {
+  font-size: 13px;
+  line-height: 30px;
+}
+.list-catalog__price {
+  font-weight: bold;
+}
